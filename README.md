@@ -48,3 +48,7 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+#### LOGS and Outputs 
+* Output logs are all located in the folder called Output_Txt_Files
+* the two files are located there.
